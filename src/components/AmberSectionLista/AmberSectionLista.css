@@ -1,0 +1,18 @@
+.amber-section {
+    padding: 40px 20px;
+    background-color: #f7fafc;
+}
+
+.amber-section h2 {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 24px;
+    text-align: center;
+    color: #2d3748;
+}
+
+.amber-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 20px;
+}

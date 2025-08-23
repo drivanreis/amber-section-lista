@@ -1,0 +1,34 @@
+.amber-card {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    padding: 16px;
+    transition: transform 0.2s ease;
+}
+
+.amber-card:hover {
+    transform: translateY(-4px);
+}
+
+.amber-card h3 {
+    font-size: 1.25rem;
+    margin-bottom: 8px;
+    color: #1a202c;
+}
+
+.amber-card p {
+    font-size: 0.95rem;
+    margin-bottom: 12px;
+    color: #4a5568;
+}
+
+.amber-card a {
+    font-size: 0.85rem;
+    margin-right: 12px;
+    color: #3182ce;
+    text-decoration: none;
+}
+
+.amber-card a:hover {
+    text-decoration: underline;
+}
