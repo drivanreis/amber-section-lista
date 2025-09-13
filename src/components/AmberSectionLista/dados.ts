@@ -1,12 +1,5 @@
 export const dados = [
   {
-    empresa: "WorldAmber",
-    repositorio: "https://github.com/drivanreis/worldamber",
-    githubPages: "https://drivanreis.github.io/worldamber",
-    descricao:
-      "Centraliza todas as operações financeiras e econômicas de suas filiais, cria um ecossistema.",
-  },
-  {
     empresa: "AmberView",
     repositorio: "https://github.com/drivanreis/amberview",
     githubPages: "https://drivanreis.github.io/amberview",
@@ -35,17 +28,17 @@ export const dados = [
       "Representante e distribuidora de comida congelada.",
   },
   {
-    empresa: "AmberBeast",
-    repositorio: "https://github.com/drivanreis/amberbeast",
-    githubPages: "https://drivanreis.github.io/amberbeast",
+    empresa: "AmberFitness",
+    repositorio: "https://github.com/drivanreis/amberfitness",
+    githubPages: "https://drivanreis.github.io/amberfitness",
     descricao:
-      "Representante e distribuidora de bebidas de alta escala. (Vinho, Whisky, Vodka, Run)",
+      "Representante e distribuidora de equipamentos de ginástica.",
   },
   {
     empresa: "AmberVintagePerformance",
     repositorio: "https://github.com/drivanreis/ambervintageperformance",
     githubPages: "https://drivanreis.github.io/ambervintageperformance",
     descricao:
-      "Restauração de motores (AP da VW, GM Family, Motor Fusca, Motor Opala)",
+      "Restauração de motores (Motor Fusca, AP da VW, GM Family,Motor Opala 250S, etc).",
   },
 ];
